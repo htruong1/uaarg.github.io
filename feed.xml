@@ -6,8 +6,8 @@
     <atom:link href="http://uaarg.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 01 May 2016 03:09:56 +0000</pubDate>
-    <lastBuildDate>Sun, 01 May 2016 03:09:56 +0000</lastBuildDate>
+    <pubDate>Sun, 01 May 2016 03:14:15 +0000</pubDate>
+    <lastBuildDate>Sun, 01 May 2016 03:14:15 +0000</lastBuildDate>
 
     
     
@@ -34,7 +34,7 @@
 &lt;p&gt;We have another flight tommorrow at 8am.&lt;/p&gt;
 
 &lt;p&gt;Finally here is a picture of Brian.&lt;/p&gt;
-&lt;div class='full zoomable'&gt;&lt;img src='/images/brian.jpg' /&gt;&lt;/div&gt;</description>
+&lt;div&gt;&lt;img src='/images/brian.jpg' /&gt;&lt;/div&gt;</description>
     </item>
     
     
