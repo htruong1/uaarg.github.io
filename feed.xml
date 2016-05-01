@@ -6,8 +6,8 @@
     <atom:link href="http://uaarg.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 01 May 2016 19:00:29 +0000</pubDate>
-    <lastBuildDate>Sun, 01 May 2016 19:00:29 +0000</lastBuildDate>
+    <pubDate>Sun, 01 May 2016 19:01:36 +0000</pubDate>
+    <lastBuildDate>Sun, 01 May 2016 19:01:36 +0000</lastBuildDate>
 
     
     
@@ -20,7 +20,7 @@
       <description>&lt;p&gt;Hi All,&lt;/p&gt;
 
 &lt;p&gt;We performed our last competition flight. As a treat here is a video showing take off and landing.&lt;/p&gt;
-&lt;iframe allowfullscreen='1' frameborder='0' height='315' src='https://www.youtube.com/embed/pYc_00_9lgI' width='420' /&gt;
+&lt;div class='full zoomable'&gt;&lt;iframe allowfullscreen='1' frameborder='0' height='315' src='https://www.youtube.com/embed/pYc_00_9lgI' width='420' /&gt;&lt;/div&gt;
 &lt;p&gt;We were given 1hr to generate a report of the flight. Everyone you see below is busy generating the report. Everyone else was having enough free time to take the picture.&lt;/p&gt;
 &lt;div class='full zoomable'&gt;&lt;img src='/images/busyworking.jpg' /&gt;&lt;/div&gt;
 &lt;p&gt;Shoutout to Jorge for organizing the report generation&lt;/p&gt;
