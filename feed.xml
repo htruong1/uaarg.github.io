@@ -6,9 +6,42 @@
     <atom:link href="http://uaarg.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 16 Jun 2016 03:34:31 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Jun 2016 03:34:31 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jun 2016 03:53:06 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jun 2016 03:53:06 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>2016 AUVSI SUAS Competition Day 2</title>
+      <link>http://uaarg.com/2016/06/16/auvsi-day-2/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://uaarg.com/2016/06/16/auvsi-day-2</guid>
+      <description>&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;We passed our safety inspection and Flight Readiness Review presentation today. The weather for the next few days won’t be great - there are heavy rains coming tomorrow and more potentially on Saturday. There was a chance for teams to fly today in the afternoon; however, we didn’t take it as our systems weren’t ready at the time. Only 3/24 teams flew today; it is likely that the Sunday rain day will be used with the current forecast.&lt;/p&gt;
+
+&lt;p&gt;We also tested our interoperability systems today - both the telemetry and target information update to the judges’ servers worked beautifully.&lt;/p&gt;
+
+&lt;p&gt;Issues we encountered today included;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Trouble with updating the autopilot flight plan for this year’s competition waypoints.&lt;/li&gt;
+
+&lt;li&gt;Fixing a cracked tail servo.&lt;/li&gt;
+
+&lt;li&gt;An unreliable serial data line from the autopilot telemetry port to the onboard imaging computer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’ve been able to resolve 2/3 of these issues.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2016/andrew-plane.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Andrew looking chipper with a partially assembled plane.&lt;/p&gt;
+
+&lt;p&gt;Hopefully we’ll be able to get a flight in soon. Stay tuned!&lt;/p&gt;
+
+&lt;p&gt;Cindy&lt;/p&gt;</description>
+    </item>
+    
     
     
     <item>
