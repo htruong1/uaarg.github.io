@@ -6,9 +6,40 @@
     <atom:link href="http://uaarg.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Fri, 17 Jun 2016 03:57:18 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Jun 2016 03:57:18 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jun 2016 03:46:50 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jun 2016 03:46:50 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>2016 AUVSI SUAS Competition Day 3</title>
+      <link>http://uaarg.com/2016/06/16/auvsi-day-3/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://uaarg.com/2016/06/16/auvsi-day-3</guid>
+      <description>&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;Today, we waited all day. The order of flights is random, and the order is drawn on the fly. Therefore, we always have to remain ready for flights, but don’t know when our flight actually will be.&lt;/p&gt;
+
+&lt;p&gt;We know, however, that we are the 5th team flying tomorrow (we are told this in order to ensure that we show up at the correct time). In the meantime, here are some nice photos.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2016/tarmac-teams.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Teams getting ready to be transported to the flight line.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2016/mag-calibration.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Rijesh, Sebastian, and Andrew performing a magnetometer calibration. This is important for correctly obtaining the yaw of the aircraft, which is important for geolocating images. Standing on one leg, as Andrew is doing, is not required for this calibration.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2016/desu.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Johnathan, assisting with the magnetometer calibration as well.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2016/elevator-inspection.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Johnathan and Rijesh inspecting the aircraft’s elevator.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2016/flight-plan.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Jorge and Sebastian inspecting the autopilot flight plan. They did a lot of simulations today to verify the behaviour of the aircraft with different waypoint configurations.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2016/encouragement.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Rijesh giving Andrew some much-needed encouragement. Andrew is working on putting our autopilot telemetry data, such as GPS coordinates, into the metadata of the images we capture, rather than in a separate file. This task has left him very downtrodden.&lt;/p&gt;
+
+&lt;p&gt;I’ll try to get a blog post out tomorrow afternoon, after our flight. Stay tuned for the results!&lt;/p&gt;
+
+&lt;p&gt;Cindy&lt;/p&gt;</description>
+    </item>
+    
     
     
     <item>
