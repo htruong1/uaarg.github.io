@@ -6,9 +6,42 @@
     <atom:link href="http://uaarg.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Thu, 15 Jun 2017 04:14:55 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2017 04:14:55 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2017 01:12:57 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2017 01:12:57 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>2017 AUVSI SUAS Competition Day 2</title>
+      <link>http://uaarg.com/2017/06/15/auvsi-day-2/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://uaarg.com/2017/06/15/auvsi-day-2</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;
+
+&lt;p&gt;Today was mainly our flight preparation day. We passed through the safety inspection very cleanly and without any trouble. Due to our brilliant flight time slot chosen by our amazing duo co-presidents, we knew that there was little chance of us getting sent to fly today. This gave us the chance to perfect our preparations. We were able to assemble and inspect our airframe and test our systems while we were at the field.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/SafetyInspection.JPG' width='400' /&gt;&lt;/div&gt;
+&lt;p&gt;The issues we encountered were few in number. The slimmed down travel crate for the plane not only had a smaller frame, but it also brought along with it less damage, where the biggest problem was a slightly bent rudder edge and a nut that came loose.&lt;/p&gt;
+
+&lt;p&gt;In terms of the airframe software, we were thrown for a loop when the waypoints for the interop server were actually located at the firehouse where the briefing was held. We were expecting them to be at the field where we were to be flying so you can imagine how this sent us into a stall. We also had to do some bug extermination, and we dont’t mean the ones in the field(It was actually very well kept).&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/AirframeSetup.JPG' width='400' /&gt;&lt;/div&gt;
+&lt;p&gt;The weather has been amazing these last few days, not very hot and not very cool(just like our airframe team, Ooooooo), so it looks like we have a good chance of flying in nice weather tommorow.&lt;/p&gt;
+
+&lt;p&gt;Despite the great weather, we (being the engineers we are) decided to leave the field early since we knew we weren’t flying today and instead retreated to the cold air conditioned safety of our wifi connected hotel room.&lt;/p&gt;
+
+&lt;p&gt;We just finished our team flight briefing, completely laying out our game plan and team task delegations. With that we are done with the main preparations for our flight tommorow.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/TeamPicDay2.JPG' width='400' /&gt;&lt;/div&gt;
+&lt;p&gt;To give you an idea of tomorrow’s events, here’s the scenario:&lt;/p&gt;
+
+&lt;p&gt;A lone hiker, daring to challenge the forces of nature, has wandered too far into the wilderness for his own good. Lost and hungry, he wanders aimlessly through the woods seeking signs of civilization and awaiting rescue. Jownsey must soar through the skies following the tracks of the lost hiker and stalk the Webster Fields to rescue him.&lt;/p&gt;
+
+&lt;p&gt;The rules of the mission demonstration are simple, every team is given 20 minutes to setup, were the last 5 minutes must be used to brief the judges of the mission plan. Once the airspace is cleared of any other teams, and the 20 minutes of suspenseful setup has passed, the mission will begin! Points will be given to us based on the reliability of Jownsey’s autonomous flight, its ability to avoid obstacles, and object detection capabilities.&lt;/p&gt;
+
+&lt;p&gt;Will Jownsey successfully rescue the lost hiker? Stay tuned for more updates!&lt;/p&gt;
+
+&lt;p&gt;Dat and Jackie&lt;/p&gt;</description>
+    </item>
+    
     
     
     <item>
@@ -20,13 +53,13 @@
       <description>&lt;p&gt;Hi Everyone,&lt;/p&gt;
 
 &lt;p&gt;After some flights and driving, Rijesh, Sebastian, Andrew, Cindy, Brian, Jackie and I have all arrived safely to Lexington Park, Maryland for the 2017 AUVSI UAS Competition. It was a perilous journey, but through it all we persevered and made it to our destination in the land of the free. We embarked on our journey in the dead of the night, having arrived for our flight around 3:00am. Although our members were separated during the flights, had to sit separated and heartbroken, we stayed strong and kept the team spirit burning. After the flights, we then continued our way via car. We rented out two cars for the team and this is where we met the most near-mishaps. During the first long car ride, we nearly lost half the team as Andrew took a wrong turn and nearly got lost on the to the Hotel in Fairfax, Virginia. On the second car trip to Lexington Park, Maryland this almost happened again, but this time it was Rijesh who had taken the wrong turn. But somehow, we made it through all of that and the whole team made it to our hotel in Lexington Park, safe and accounted for.&lt;/p&gt;
-&lt;div class='full zoomable' width='400'&gt;&lt;img src='/images/auvsi2017/dat_sleep.gif' /&gt;&lt;/div&gt;&lt;div class='full zoomable' width='400'&gt;&lt;img src='/images/auvsi2017/sebastian_yawn.gif' /&gt;&lt;/div&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/dat_sleep.gif' width='400' /&gt;&lt;/div&gt;&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/sebastian_yawn.gif' width='400' /&gt;&lt;/div&gt;
 &lt;p&gt;We mini-sized our crate for this year compared to last and made it out of the oversized baggage category. Its taken on a new diet plan and slimmed down; we cut packing peanuts out of its diet and replaced them with bubble wrap instead. As you can see, it was a very effective diet plan and we would recommend it to all those other crates looking to slim down.&lt;/p&gt;
 &lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/new_crate.JPG' /&gt;&lt;/div&gt;
 &lt;p&gt;From the competition briefing today, we found out that the competition this year has 44 teams! This is significantly more than the 24 teams that were present last year; a truly daunting challenge indeed. We also received the feedback for our journal paper and our Flight Readiness Review Video, and it was quite good. This has only made our team even more pumped up and raring for the competition.&lt;/p&gt;
 
 &lt;p&gt;Compared to last year, where we were given our flight order; this year, we got to choose our order to fly. From the moment we found out about this, our co-presidents, Sebastian and Rijesh, instantly went into extremely intense deliberation. Having considered various factors, ranging from team readiness, flight preparation, future weather conditions, and team distribution by day, they had decided on us being the 33rd team to fly. With this wise and calculated decision, our co-presidents have brought to us an amazing flight time slot, bringing an end to the briefing.&lt;/p&gt;
-&lt;div class='full zoomable' width='400'&gt;&lt;img src='/images/auvsi2017/sebastian_place.gif' /&gt;&lt;/div&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/sebastian_place.gif' width='400' /&gt;&lt;/div&gt;
 &lt;p&gt;Tomorrow, we’ll be doing our safety inspection for the plane and making some more preparations for the flight, with a light chance of flying. Then on Friday, we’ll be sending our own little Jownsey (That’s the name of the plane) into the air for the competition flight. This blog will be updated and filled with our completion adventures during the next few days so make sure to stay tuned!&lt;/p&gt;</description>
     </item>
     
