@@ -6,9 +6,40 @@
     <atom:link href="http://uaarg.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sat, 17 Jun 2017 15:22:49 +0000</pubDate>
-    <lastBuildDate>Sat, 17 Jun 2017 15:22:49 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Jun 2017 16:13:18 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Jun 2017 16:13:18 +0000</lastBuildDate>
 
+    
+    
+    <item>
+      <title>2017 AUVSI SUAS Competition Day 4</title>
+      <link>http://uaarg.com/2017/06/17/auvsi-day-4/</link>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://uaarg.com/2017/06/17/auvsi-day-4</guid>
+      <description>&lt;p&gt;Hi everyone!&lt;/p&gt;
+
+&lt;p&gt;The day that we have all waited for has arrived. Today was the day of the banquet and the results came in! We attended the banquet full of nerves and expectations. The banquet had amazing food, and we got to mingle and talk to some other teams about their experiences before the banquet presentation started.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/BanquetHall.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;The presentation was full of lessons and laughs. They spoke about a lot of the firsts for the competition this year, such as having the largest turnout of 42 teams and for having the largest prize money pool of $62,500 USD. They also were kind enough to give all the teams some words of wisdom, such as to test early and often, to have and use checklists, and to code at home (not on the flight line). While the presentation was quite professional, there was snippets of great humor.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/CompetitionMoney.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;In the presentation, there were a lot of jokes and excerpts that cracked up the crowd and brought laughs throughout the hall. They made a lot of jokes such as recommending us to bring gifts to the judges in their improvement and recommendation section of the presentation. They also brought on many funny stories and excerpts from the various teams. We learned that the University of Hawaii team are amazing singers, but have bad taste in music, which may be one of the best or worse combinations. There was also a lot of crash and near miss footage from missions (luckily we didn’t join them this year). After lightening the mood, the moment that we had all been waiting for had arrived, the results.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Results.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Just shy of the podium, we placed 11th overall out of the 55 teams and winning a total of 1,250 USD! Landing in the 8th place under the mission demonstration category, doing better than we have ever before, we were all ecstatic about how well our little Jownsey performed. Jownsey was confirmed to have captured all of the target waypoints, each capture was within a decent accuracy of no more than 40 feet. Of the 9 ground targets, Jownsey successfully detected and recognized 3, further contributing to our high mission performance score. Of course, we would not have come this far without the quality of Jownsey’s autonomous flight and the accuracy of the geolocation system. Overall, the entire UAARG team was very happy with the results, ending the competition with a night of joyous celebration.&lt;/p&gt;
+
+&lt;p&gt;Despite our success, there are many improvements that can be made for our system to soar even higher. Although our imaging team is comprised of incredibly talented team members, the nature of their work is extremely demanding and difficult. That being said, our imaging systems have the most potential to improve.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/FlightReturn.JPG' /&gt;&lt;/div&gt;
+&lt;p&gt;Jownsey returning to ground station after mission yestereday. (A little amputation never hurt anyone)&lt;/p&gt;
+
+&lt;p&gt;The most immediate issue that should be addressed is the efficiency of the image processing. During the competition, our imaging team lead, Cindy, was solely responsible for the in-flight processing and post processing of images taken. As two images are sent for every second of flight, image processing becomes extremely time consuming; because of this, post flight image processing took one third of our mission time. This issue can be addressed simply by increasing the teamwork in the image processing team, or to develop auto image identification software through machine learning algorithms.&lt;/p&gt;
+
+&lt;p&gt;Jownsey’s autopilot system worked brilliantly during this competition, however, improvements can be made to iron out the kinks. Our lack of obstacle detection cost us quite a few points during this year’s competition. Currently, Jownsey is manually redirected to avoid an obstacle during the mission. Due to human error under the pressure of the situation, Jownsey hit majority of the obstacles even after being redirected; this makes the development of an obstacle avoidance algorithm a priority for UAARG.&lt;/p&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/KML.png' /&gt;&lt;/div&gt;
+&lt;p&gt;Flight Path of Jownsey&lt;/p&gt;
+
+&lt;p&gt;SUAS 2017 has truly been an adventure; it was a trip full of incredible moments, and amazing learning opportunities. With our amazing team supporting the equally amazing Jownsey, we were able to achieve a club record rank of 11th place at the SUAS competition. Despite our success, UAARG will continue to dedicate our time to further improve our UAS system; the sky is the limit. The competition this year has come to a conclusion, but if you would like to continue following the adventures of our little Jownsey, check out our Facebook at https://www.facebook.com/uaarg/. If you want to follow our adventures even closer, feel free to come join us at the University of Alberta’s on the third floor of ETLC!&lt;/p&gt;</description>
+    </item>
+    
     
     
     <item>
@@ -50,15 +81,15 @@
 &lt;p&gt;After we recovered Jownsey and brought him back to the ground station, Cindy quickly finished processing the images and we started packing everything away. We managed to end our mission with good time, finishing at 41 minutes exactly. After this the judges gave us their thoughts and feedback on our performance during the flight test. They congratulated and praised us all around, but mainly they complemented us on our team communication and our amazing safety protocols.&lt;/p&gt;
 
 &lt;p&gt;Take a step into the eyes of Jownsey below with these lovely images taken by Jownsey during the competition flight:&lt;/p&gt;
-&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging1.JPG' /&gt;&lt;/div&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging1.jpg' /&gt;&lt;/div&gt;
 &lt;p&gt;Star-shaped object.&lt;/p&gt;
-&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging2.JPG' /&gt;&lt;/div&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging2.jpg' /&gt;&lt;/div&gt;
 &lt;p&gt;Red semicircle, and what we think is the emergency target on the right side of the image, on the runway.&lt;/p&gt;
-&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging3.JPG' /&gt;&lt;/div&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging3.jpg' /&gt;&lt;/div&gt;
 &lt;p&gt;Some nice broccoli trees, and another target.&lt;/p&gt;
-&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging4.JPG' /&gt;&lt;/div&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging4.jpg' /&gt;&lt;/div&gt;
 &lt;p&gt;A better shot of what we think is the emergent target.&lt;/p&gt;
-&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging5.JPG' /&gt;&lt;/div&gt;
+&lt;div class='full zoomable'&gt;&lt;img src='/images/auvsi2017/Imaging5.jpg' /&gt;&lt;/div&gt;
 &lt;p&gt;Rijesh, Andrew and Dat can be seen on the bottom right on the runway here(They’re the little dots).&lt;/p&gt;
 
 &lt;p&gt;The results of our flight will be coming out this evening, so stay tuned for updates!&lt;/p&gt;
